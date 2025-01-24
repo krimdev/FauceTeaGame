@@ -1,5 +1,7 @@
 # FauceTeaGame - Tea Network Testnet Game
 
+[fauceteagame.xyz](https://fauceteagame.xyz/)
+
 A blockchain game built on Tea Network testnet combining rock-paper-scissors mechanics with token rewards.
 
 ## Features
