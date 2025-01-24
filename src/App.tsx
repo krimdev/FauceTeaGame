@@ -60,7 +60,7 @@ const handleCopy = (addr) => {
                   address: '0xC9C14dF451f31FF882Af20ab1C0fC48Bb853e3Cc',
                   symbol: 'FGT',
                   decimals: 18,
-                  image: '' // Optional token logo URL
+                  image: ''
               },
           },
       });
